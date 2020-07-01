@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Internshala-test/static/css/main.2f2cb679.chunk.css",
+    "main.js": "/Internshala-test/static/js/main.93b9c078.chunk.js",
+    "main.js.map": "/Internshala-test/static/js/main.93b9c078.chunk.js.map",
+    "runtime-main.js": "/Internshala-test/static/js/runtime-main.6726390a.js",
+    "runtime-main.js.map": "/Internshala-test/static/js/runtime-main.6726390a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Internshala-test/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.67295f34.chunk.js": "/Internshala-test/static/js/2.67295f34.chunk.js",
+    "static/js/2.67295f34.chunk.js.map": "/Internshala-test/static/js/2.67295f34.chunk.js.map",
+    "index.html": "/Internshala-test/index.html",
+    "precache-manifest.66bcebe1d482966f559de17e8be6c31d.js": "/Internshala-test/precache-manifest.66bcebe1d482966f559de17e8be6c31d.js",
+    "service-worker.js": "/Internshala-test/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Internshala-test/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.2f2cb679.chunk.css.map": "/Internshala-test/static/css/main.2f2cb679.chunk.css.map",
+    "static/js/2.67295f34.chunk.js.LICENSE.txt": "/Internshala-test/static/js/2.67295f34.chunk.js.LICENSE.txt",
+    "static/media/card1.jpeg": "/Internshala-test/static/media/card1.c16c55d5.jpeg",
+    "static/media/card2.jpeg": "/Internshala-test/static/media/card2.f572d5bd.jpeg",
+    "static/media/card3.jpeg": "/Internshala-test/static/media/card3.7a71c16d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6726390a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.67295f34.chunk.js",
+    "static/css/main.2f2cb679.chunk.css",
+    "static/js/main.93b9c078.chunk.js"
+  ]
+}
