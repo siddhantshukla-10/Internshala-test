@@ -1,0 +1,36 @@
+#navBAR{
+  height: 100px;
+  margin-bottom: 40px;
+}
+
+#homePage{
+  background: yellow;
+  border-radius: 5px;
+  color: black;
+  padding: 4px;
+  margin-top: 6px;
+}
+
+#navbarBrand{
+  font-size: 40px;
+  margin-left: 40px;
+  color: white;
+}
+
+.header {
+  width: 100%;
+  height: 200px;
+  background: black;
+}
+.zigzag {
+  position: relative;
+  width: 100%;
+}
+.zigzag:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: -10px;
+  width: 100%;
+  height: 10px;
+}
