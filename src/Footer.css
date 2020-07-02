@@ -2,7 +2,8 @@
 
 .Footer {
   background: black;
-  height: 150px;
+  height: 100%;
+  margin-top: 18px;
 }
 .Footer:before {
   background:

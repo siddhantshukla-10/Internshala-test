@@ -1,9 +1,15 @@
 #card-margin{
-  margin-left: 10px;
-  margin-right:10px;
+  margin: auto;
   padding: 0px;
 }
 
+#wrapper{
+  text-align: center;
+}
+
+#rowWrap{
+  margin: auto;
+}
 
 
 
